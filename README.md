@@ -131,8 +131,8 @@ Advanced racing simulation assistance software that provides smooth, dynamic con
 
 ### Getting Help
 - GitHub Issues: [Report bugs](https://github.com/Pvrplxrd95/Pro-Driver-Assist/issues)
-- Email Support: josiah.cohen@example.com
-- Documentation: [Online Wiki](https://github.com/Pvrplxrd95/Pro-Driver-Assist/wiki)
+- Email Support: josiast28@gmail.com
+
 
 ### Contributing
 - Fork the repository
@@ -169,7 +169,7 @@ Not responsible for any damage to equipment or injury resulting from use.
 ## Credits and Acknowledgments
 
 ### Development Team
-- Lead Developer: Josiah Cohen
+- Lead Developer: Josias Tlou
 - Physics Engine: Pro Driver Assist Team
 - UI Design: Pro Driver Assist Team
 
@@ -177,3 +177,4 @@ Not responsible for any damage to equipment or injury resulting from use.
 - Beta testing community
 - Contributing developers
 - Racing simulation community
+
