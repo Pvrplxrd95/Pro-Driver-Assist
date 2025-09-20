@@ -1,0 +1,39 @@
+{
+    "settings": {
+        "steer_speed": 500,
+        "throttle_speed": 500,
+        "brake_speed": 500,
+        "curve_strength": 1.5,
+        "deadzone_size": 10,
+        "steering_mode": "Standard",
+        "force_feedback": true,
+        "vibration_strength": 0.5,
+        "response_speed": 1.0,
+        "center_snap": 0.8,
+        "show_wheel": true,
+        "show_pedals": true,
+        "show_speed": true,
+        "show_ff": true
+    },
+    "game_profiles": {
+        "assetto_corsa.exe": {
+            "name": "Assetto Corsa",
+            "steer_speed": 600,
+            "throttle_speed": 500,
+            "brake_speed": 500,
+            "curve_strength": 1.5,
+            "deadzone_size": 10,
+            "steering_mode": "Race",
+            "force_feedback": true,
+            "vibration_strength": 0.7,
+            "response_speed": 1.5,
+            "center_snap": 0.7
+        }
+    },
+    "key_bindings": {
+        "gear_up": "up",
+        "gear_down": "down",
+        "clutch": "left_shift",
+        "handbrake": "space"
+    }
+}

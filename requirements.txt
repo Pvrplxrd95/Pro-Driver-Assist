@@ -1,0 +1,10 @@
+keyboard==0.13.5
+pyvjoy==1.0.1
+psutil==5.9.0
+Pillow==10.2.0
+mouse==0.7.1
+pystray==0.19.5
+pydirectinput==1.0.4
+numpy==1.22.0
+scipy==1.11.2
+pandas==1.4.4
